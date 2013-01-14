@@ -1,1 +1,3 @@
-jfjfjfjfrx
+<?php
+  phpinfo();
+?>
